@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/97/87/77/978777f3dbbe42ed7be1b3c09912ca6c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijithraghavk&label=Profile%20views&color=0e75b6&style=flat" alt="abhijithraghavk" /> </p>
 
-- 👯 I’m looking to collaborate on **VLSI projects**
+- 👯 I’m looking to collaborate on **Firmware Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
